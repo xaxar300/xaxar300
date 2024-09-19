@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xaxar300
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++, HTML and CSS
 - 📫 How to reach me:
 - ig: @xaxar300
 - tg: @xaxar300
